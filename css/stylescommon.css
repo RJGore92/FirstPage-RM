@@ -1,0 +1,16 @@
+h1 {
+  font-size: 24px;
+  font-style: italic;
+  text-align: center;
+}
+
+h2 {
+  color: darkgreen;
+  font-weight: normal;
+  font-family: sans-serif;
+}
+
+ul {
+  font-size: 14px;
+  line-height: 18px;
+}
